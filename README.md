@@ -1,7 +1,7 @@
 # Retail Sales Forecasting
 End-to-end EDA + simple forecasting prep with Python, SQL, and dashboard.
 
-**Data:** `retail_sales_data.csv` (Date, Product, Category, Region, Units, Revenue)  
+**Data:** `synthetic_sales_60000.csv` (Date, Product, Category, Region, Units, Revenue)  
 **Notebook:** `retail_sales_project.ipynb`  
 **SQL:** `sql/queries.sql`
 
